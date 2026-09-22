@@ -1,4 +1,4 @@
-name: mobile_preview
+name: mobileapp
 description: Dynamic Flutter preview app for Shopify mobile app builder.
 publish_to: 'none'
 version: 1.0.0+1
